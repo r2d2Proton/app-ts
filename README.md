@@ -1,5 +1,6 @@
 # app-ts
 
+![alt text](https://github.com/r2d2Proton/app-ts/blob/main/LottieAnimatedTexture.png?raw=true)
 ## Project setup
 ```
 npm install
