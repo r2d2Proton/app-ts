@@ -1,6 +1,12 @@
 # app-ts
 
-![alt text](https://github.com/r2d2Proton/app-ts/blob/main/LottieAnimatedTexture.png?raw=true)
+<table>
+  <tr>
+    <td> <img src="https://github.com/r2d2Proton/app-ts/blob/main/spacehenry.png?raw=true"  alt="Space Henry" width=50></td>
+    <td><img src="https://github.com/r2d2Proton/app-ts/blob/main/LottieAnimatedTexture.png?raw=true" alt="Hamster" width=50></td>
+  </tr> 
+</table>
+
 ## Project setup
 ```
 npm install
